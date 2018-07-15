@@ -2,7 +2,7 @@
 
 ## 概述
 
-这是一个由IO类多人联机的游戏框架DEMO，主要用于配合文章讲解如何从0开始开发一个实时联机游戏。
+这是一个IO类的多人联机的游戏框架DEMO，主要用于配合文章讲解如何从0开始开发一个实时联机游戏。
 请勿用于任何商业用途，如果有任何问题，欢迎与我联系。
 
 ![image](https://github.com/hansquirrel/IOShootGameDemo/blob/master/docs/pics/shootgamesmall.GIF)
@@ -26,4 +26,4 @@
 
 ## 文章地址
 
-
+[https://zhuanlan.zhihu.com/p/39790846](https://zhuanlan.zhihu.com/p/39790846)
