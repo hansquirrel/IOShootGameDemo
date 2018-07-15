@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootGameServer", "ShootGameServer\ShootGameServer.csproj", "{CEC33F4D-FAE3-434B-9419-E5C38396BBBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootGameServer.Test", "ShootGameServer.Test\ShootGameServer.Test.csproj", "{15E54328-3FD2-4D17-9637-29B2BD97629A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootGameServer.SharedData", "ShootGameServer.SharedData\ShootGameServer.SharedData.csproj", "{B834E21A-1712-46B2-B330-AB9B99DAACA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootGameServer.HSFramework.Room", "ShootGameServer.HSFramework.Room\ShootGameServer.HSFramework.Room.csproj", "{79626A95-88EB-4C23-8008-BEDCC83A4DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootGameServer.HSFramework.Client", "ShootGameServer.HSFramework.Client\ShootGameServer.HSFramework.Client.csproj", "{D01D551B-0237-42D4-AF75-B473F1418730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC33F4D-FAE3-434B-9419-E5C38396BBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC33F4D-FAE3-434B-9419-E5C38396BBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC33F4D-FAE3-434B-9419-E5C38396BBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC33F4D-FAE3-434B-9419-E5C38396BBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E54328-3FD2-4D17-9637-29B2BD97629A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E54328-3FD2-4D17-9637-29B2BD97629A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E54328-3FD2-4D17-9637-29B2BD97629A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E54328-3FD2-4D17-9637-29B2BD97629A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B834E21A-1712-46B2-B330-AB9B99DAACA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B834E21A-1712-46B2-B330-AB9B99DAACA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B834E21A-1712-46B2-B330-AB9B99DAACA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B834E21A-1712-46B2-B330-AB9B99DAACA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79626A95-88EB-4C23-8008-BEDCC83A4DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79626A95-88EB-4C23-8008-BEDCC83A4DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79626A95-88EB-4C23-8008-BEDCC83A4DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79626A95-88EB-4C23-8008-BEDCC83A4DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01D551B-0237-42D4-AF75-B473F1418730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01D551B-0237-42D4-AF75-B473F1418730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01D551B-0237-42D4-AF75-B473F1418730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01D551B-0237-42D4-AF75-B473F1418730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerShooterDemo", "Assembly-CSharp.csproj", "{B5D74F0B-854B-60DD-C3C0-2DA959D72E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerShooterDemo", "Assembly-CSharp-Editor.csproj", "{C7F67AF7-E1DC-D70A-68C4-62C9E5F1A041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D74F0B-854B-60DD-C3C0-2DA959D72E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D74F0B-854B-60DD-C3C0-2DA959D72E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D74F0B-854B-60DD-C3C0-2DA959D72E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D74F0B-854B-60DD-C3C0-2DA959D72E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F67AF7-E1DC-D70A-68C4-62C9E5F1A041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F67AF7-E1DC-D70A-68C4-62C9E5F1A041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F67AF7-E1DC-D70A-68C4-62C9E5F1A041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F67AF7-E1DC-D70A-68C4-62C9E5F1A041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
