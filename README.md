@@ -19,10 +19,13 @@
 
 ## 启动说明
 
-* 启动服务器：ShootGameServer/ShootGameServer
-* 启动客户端，场景：MainMenu
-* 默认配置服务器为本机地址：127.0.0.1:9003（修改位置：ShootGameServer.SharedData.ConstSettings.ConstSettings）
+* 启动服务器：ShootGameServer（直接VS打开执行即可，不用改任何代码）
+* 启动客户端，切换到场景：MainMenu，Start
 * 客户端可以模拟添加机器人：左上角点击Spawn即可
+
+如果有需要部署进行远程连接
+
+* 配置服务器地址：127.0.0.1:9003（修改位置：ShootGameServer.SharedData.ConstSettings.ConstSettings）
 
 ## 文章地址
 
